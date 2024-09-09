@@ -1,5 +1,5 @@
 # FirstAuth
- CCPD APP
+ CCPD(Placement Help) APPLICATION (Scrapping the project)
  
 # DONE
 1. AUTH FireBase (Login, Logout, SignUp, ForgotPassword)
