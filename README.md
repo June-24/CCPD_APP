@@ -1,5 +1,5 @@
 # FirstAuth
- CCPD(Placement Help) APPLICATION (Scrapping the project)
+ CCPD (Center for Career Planning and Development) APPLICATION (Scrapping the project -> Apparently not required)
  
 # DONE
 1. AUTH FireBase (Login, Logout, SignUp, ForgotPassword)
